@@ -1,0 +1,14 @@
+# Python / Django
+__pycache__/
+*.pyc
+db.sqlite3
+.venv/
+venv/
+env/
+.env
+
+.idea/
+*.iml
+
+# Mac
+.DS_Store
