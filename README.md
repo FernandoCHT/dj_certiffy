@@ -36,7 +36,7 @@ python manage.py seed_db
 
 ### 5. Correr el servidor
 ```bash
-python manage.py seed_db
+python manage.py runserver
 ```
 
 ## Ejecución de Pruebas
